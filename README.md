@@ -1,4 +1,4 @@
-# WSS-Planer
+# WSS-Planner
 
 Die Idee dazu hatte ich letztes Jahr schon, da hieß sie so grob:
 
